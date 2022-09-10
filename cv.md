@@ -33,4 +33,4 @@ function XO(str) {
 *Higher education*
 
 ## English lang.:
-*Basic*
+*Basic.*
