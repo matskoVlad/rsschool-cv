@@ -72,3 +72,26 @@
     margin-left: 0;
     border-left: 2px solid green ;
 }
+
+footer {
+    background-color: #b5b4ba;
+    display: flex;
+    width: 21cm;
+    height: 25px;
+    justify-content: space-between;
+}
+
+.logoRs {
+    width: 25%;
+}
+
+.footerElement {
+    width: 33.33%;
+    display: flex;
+    align-items: center;
+}
+header {
+    margin: 0 auto;
+    width: 21cm;
+    background-color: rgba(106, 161, 194, 0.671);
+}
